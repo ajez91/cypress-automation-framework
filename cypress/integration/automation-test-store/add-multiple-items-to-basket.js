@@ -3,7 +3,7 @@ import AutoStoreHairCarePage from "../../support/pageObjects/automation-test-sto
 
 /// <reference types="cypress" />
 
-describe("Add multiple items to basket", () => {
+describe("Add multiple items to the basket", () => {
 
   const autoStoreHomepage = new AutoStoreHomepage()
   const autoStoreHairCarePage = new AutoStoreHairCarePage()
