@@ -1,0 +1,4 @@
+<testsuite name="Mocha Tests" tests="2" failures="0" errors="0" skipped="0" timestamp="Mon, 19 Dec 2022 11:52:38 GMT" time="6.014">
+<testcase classname="Test Contact Us form via WebdriverUni" name="Should be able to submit a successful submission via contact us form" time="3.694"/>
+<testcase classname="Test Contact Us form via WebdriverUni" name="Should not be able to submit a successful submission via contact us form as all fields are required" time="2.291"/>
+</testsuite>
